@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g   CMakeFiles/MA1_Debugging_C++_Code.dir/main.cpp.o  -o MA1_Debugging_C++_Code 

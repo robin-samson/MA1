@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robinsky/CS_223/MA1_Debugging_C++_Code/main.cpp
+testQueue.cpp
+/home/robinsky/CS_223/MA1_Debugging_C++_Code/testQueue.cpp
+
+/home/robinsky/CS_223/MA1_Debugging_C++_Code/queue.h
+iostream
+-
+cstdlib
+-
+limits
+-
+
+/home/robinsky/CS_223/MA1_Debugging_C++_Code/testQueue.cpp
+testQueue.h
+/home/robinsky/CS_223/MA1_Debugging_C++_Code/testQueue.h
+
+/home/robinsky/CS_223/MA1_Debugging_C++_Code/testQueue.h
+queue.h
+/home/robinsky/CS_223/MA1_Debugging_C++_Code/queue.h
+
